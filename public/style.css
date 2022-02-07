@@ -1,0 +1,20 @@
+.todoList{
+    padding: 10px;
+    background-color:  rgb(15, 56, 238);
+    border-radius: 10px;
+    list-style-type:none;
+}
+.btnbtn{
+    padding: 10px;
+    background-color: darkcyan;
+    color: cyan;
+    border-radius: 5px;
+    width: 30%;
+    border-radius: 50px;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
